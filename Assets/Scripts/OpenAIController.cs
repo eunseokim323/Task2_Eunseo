@@ -17,7 +17,7 @@ public class OpenAIController : MonoBehaviour
     private List<ChatMessage> messages;
     private void Start()
     {
-        api = new OpenAIAPI(new APIAuthentication("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"));
+        api = new OpenAIAPI(new APIAuthentication("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"));
         StartConversation();
         sendBtn.onClick.AddListener(() => GetResponse());
     }
