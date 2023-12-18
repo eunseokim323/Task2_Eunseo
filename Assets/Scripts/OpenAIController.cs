@@ -29,7 +29,7 @@ public class OpenAIController : MonoBehaviour
             new ChatMessage(ChatMessageRole.System, "you can only answer with [yes, no].")
         };
         inputField.text = string.Empty;
-        textField.text = "입력하세요.";
+        textField.text = "Enter txt.";
     }
     
     private async void GetResponse()
