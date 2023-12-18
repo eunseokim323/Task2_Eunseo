@@ -1,6 +1,6 @@
 # Task2_Eunseo
 
-- Scene name "Task2" is the task that i have wokred on
+- Scene name "Task2" is the task that i have worked on
 
 - Press the w,a,s,d and spacebar button to move the character
 
